@@ -1,0 +1,30 @@
+body
+{
+
+    background-color: black;
+
+}
+h1, p, a
+{
+	color:  white;
+    font-size: 1.5em;
+    text-align: center;
+}
+form
+{
+    color:  white;
+    font-size: 1em;
+    text-align: center;
+}
+#mdp
+{
+    
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+strong
+{
+    font-style: italic;
+}
