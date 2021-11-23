@@ -1,6 +1,7 @@
-# Jahia 
+# Jahia's Blog
 
-Blog about jahia's birth 
+Bilingual blog with articles, real time comments, slider gallery and games. Website built using PHP and MySQL including User Account with authentification and contact form. Admin dashbord to post and manage website data.
+
 
  - Php Dynamic Website 
  - Javascript : form validation and slider
@@ -9,8 +10,9 @@ Blog about jahia's birth
 Main features :
 
 - Articles and blog's posts
-- User's comments
-- User dashboard with authentication
+- Real time comments
+- User account with authentication
+- Admin dashboard to post and manage website data
 - Gallery with slider and vote for best picture
 - JS Games : memory, pictionary & quiz
 - French & English version
