@@ -17,5 +17,6 @@ Main features :
 - JS Games : memory, pictionary & quiz
 - French & English version
 
-Hosting : Heroku with ClearDB for SQL database
+Email : EmailJS
 
+Hosting : Heroku with ClearDB for SQL database
