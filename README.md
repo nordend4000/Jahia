@@ -5,7 +5,7 @@ Bilingual blog with articles, real time comments, slider gallery and games. Webs
 
  - Php Dynamic Website 
  - Javascript : form validation and slider
- - Database : MySQL
+ - Database : MySQL 
 
 Main features :
 
@@ -16,4 +16,6 @@ Main features :
 - Gallery with slider and vote for best picture
 - JS Games : memory, pictionary & quiz
 - French & English version
+
+Hosting : Heroku with ClearDB for SQL database
 
